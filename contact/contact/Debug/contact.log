@@ -1,0 +1,4 @@
+﻿  contact.c
+F:\造梦西游\contact\contact\contact.c(54,20): warning C4047: “函数”:“contact *”与“contact **”的间接级别不同
+F:\造梦西游\contact\contact\contact.c(54,16): warning C4024: “Checkcapacity”: 形参和实参 1 的类型不同
+  contact.vcxproj -> F:\造梦西游\contact\contact\Debug\contact.exe
