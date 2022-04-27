@@ -1,0 +1,25 @@
+#include "SList.h"
+
+
+
+
+testSList1()
+{
+	SL* con = NULL;
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+	SListPushBack(&con);//¡¥±ÌŒ≤≤Â
+
+	SListPrint(con);//¥Ú”°¡¥±Ì
+
+}
+
+int main()
+{
+	testSList1();
+
+	return 0;
+}
