@@ -1,5 +1,5 @@
 ﻿  SList.c
-  test.c
-  正在生成代码...
+F:\造梦西游\SList\SList\SList.c(53,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
 F:\造梦西游\SList\SList\SList.c(10): warning C4716: “SListBuild”: 必须返回一个值
+F:\造梦西游\SList\SList\SList.c(107): warning C4715: “SListFind”: 不是所有的控件路径都返回值
   SList.vcxproj -> F:\造梦西游\SList\SList\Debug\SList.exe

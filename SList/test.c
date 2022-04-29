@@ -12,22 +12,14 @@ testSList1()
 	SListPushBack(&con);//链表尾插
 	SListPushBack(&con);//链表尾插
 	SListPushBack(&con);//链表尾插
+
 	SListPrint(con);//打印链表
 
 }
-testSList2()
-{
-	SL* con = NULL;
-	SListPushBack(&con);//链表尾插
-	SListPushBack(&con);//链表尾插
-	SListPushBack(&con);//链表尾插
-	SL*pos=SListFind(con);//返回指定数字的链表地址
-	SListInsertnum(&con, pos);//pos位置插入
-}
+
 int main()
 {
-	//testSList1();
-	testSList2();
+	testSList1();
 
 	return 0;
 }
