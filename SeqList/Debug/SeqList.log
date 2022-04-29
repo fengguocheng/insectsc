@@ -1,0 +1,5 @@
+﻿  SeqList.c
+F:\植物大战僵尸\SeqList\SeqList.c(103,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+F:\植物大战僵尸\SeqList\SeqList.c(103,8): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+F:\植物大战僵尸\SeqList\SeqList.c(103,8): message : 缺失的可变参数 2 为格式字符串“%d”所需
+  SeqList.vcxproj -> F:\植物大战僵尸\SeqList\Debug\SeqList.exe
