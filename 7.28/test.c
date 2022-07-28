@@ -60,8 +60,6 @@ void Playeract(char board[ROW][COL], int row, int col,char tmp)
 }
 void Desktopact(char board[ROW][COL], int row, int col, char tmp)
 {
-	
-	
 	printf("µçÄÔÏÂÆå:>\n");
 	while (1)
 	{
