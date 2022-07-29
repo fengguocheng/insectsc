@@ -1,0 +1,3 @@
+﻿  game.c
+F:\insectsc-master\insectsc\扫雷\game.c(105): warning C4715: “FindBomb”: 不是所有的控件路径都返回值
+  扫雷.vcxproj -> F:\insectsc-master\insectsc\扫雷\Debug\扫雷.exe
