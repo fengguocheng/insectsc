@@ -1,0 +1,5 @@
+﻿  contact.c
+  test.c
+  正在生成代码...
+F:\insectsc-master\insectsc\contact_primary\contact.c(66): warning C4715: “Findperson”: 不是所有的控件路径都返回值
+  contact_primary.vcxproj -> F:\insectsc-master\insectsc\contact_primary\Debug\contact_primary.exe
